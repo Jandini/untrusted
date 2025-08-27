@@ -17,10 +17,9 @@ Your goal is simple: **reach the exit** on every level — how you do it is up t
 
 2. **Move Your Character**
 
-   * You are the **green `@` character**.
+   * You are the **green `@` character** (the player).
    * Use the **arrow keys** to move:
-
-     * ⬅️ Left ➡️ Right ⬆️ Up ⬇️ Down
+     ⬅️ Left ➡️ Right ⬆️ Up ⬇️ Down
    * Your goal is to **reach the blue square** (the exit).
    * But first, **pick up the computer** on the map. The computer gives you access to the code that generates obstacles on the map.
 
@@ -67,7 +66,6 @@ You can use either mouse clicks or keyboard shortcuts (Ctrl + number key).
 
 ### Tips
 
-* Always pick up the **computer** before heading to the exit — otherwise, you can’t proceed.
 * Don’t worry about advanced JavaScript — the game only uses **simple code and logic**.
 * **Think like a puzzle-solver, not a programmer.**
 
