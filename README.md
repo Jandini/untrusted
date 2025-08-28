@@ -11,14 +11,14 @@ Your goal is simple: **reach the exit** on every level — how you do it is up t
 
 1. **Start the Game**
 
-   * Open the game screen.
+   * Open the game screen. 
    * Click the **🔇 speaker icon** in the top-left corner of the **game frame** to mute the sound. <img width="675" height="541" alt="image" src="https://github.com/user-attachments/assets/0894b1c8-b9d5-4fac-87e8-417734512a32" />
-   * Click inside the game and **press any key** to begin.
+   * Click inside the game and **press any key** on your keyboard to begin.
 
 2. **Move Your Character**
 
    * You are the **green `@` character** (the player).
-   * Use the **arrow keys** to move:
+   * Use the **arrow keys** on your **KEYBOARD** to move:
      ⬅️ Left ➡️ Right ⬆️ Up ⬇️ Down
    * Your goal is to **reach the blue square** (the exit).
    * But first, **pick up the computer** on the map. The computer gives you access to the code that generates obstacles on the map.
@@ -58,7 +58,8 @@ Your goal is simple: **reach the exit** on every level — how you do it is up t
 * `Reset` (Ctrl + 3) — double-click to reset the code to its original state.
 * `API` (Ctrl + 1) — shows a simple reference (optional in early levels).
 
-<img width="904" height="890" alt="image" src="https://github.com/user-attachments/assets/10b09dea-5ed5-43cb-9c2a-b8af16ed4fed" />
+<img width="1355" height="431" alt="image" src="https://github.com/user-attachments/assets/3fa384f2-3857-4c25-8f99-0e8e8b9b637b" />
+
 
 You can use either mouse clicks or keyboard shortcuts (Ctrl + number key).
 
