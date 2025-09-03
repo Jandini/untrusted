@@ -31,12 +31,14 @@ If you want to explore game without reading the below instructions you can [Hold
 
 4. **Understand the Screen**
 
-   * The screen is divided into two parts:
+    The screen is divided into two parts:
+   
+    * **Left**: the **map** (gameplay area).
+    * **Right**: the **code** that generates the level.
 
-     * **Left**: the **map** (gameplay area).
-     * **Right**: the **code** that generates the level.
+   This is how the screen look in the game:
 
-   This is how the screen look in the game
+   
    <img width="1925" height="1026" alt="image" src="https://github.com/user-attachments/assets/d4573558-2e7b-4525-abce-9dfd7f95bfb8" />
 
 ---
