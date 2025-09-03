@@ -5,7 +5,7 @@
 *Untrusted* is a **JavaScript puzzle adventure game** where you solve each level by **modifying or adding code**.
 Your goal is simple: **reach the exit** on every level — how you do it is up to your code.
 
-If you want to explore game without reading the below instruction you can [Hold the Ctrl Key and Click Here to Start the Game](https://untrustedgame.com/)
+If you want to explore game without reading the below instructions you can [Hold the Ctrl Key and Click Here to Start the Game](https://untrustedgame.com/)
 
 ---
 
@@ -36,6 +36,7 @@ If you want to explore game without reading the below instruction you can [Hold 
      * **Left**: the **map** (gameplay area).
      * **Right**: the **code** that generates the level.
 
+   This is how the screen look in the game
    <img width="1925" height="1026" alt="image" src="https://github.com/user-attachments/assets/d4573558-2e7b-4525-abce-9dfd7f95bfb8" />
 
 ---
